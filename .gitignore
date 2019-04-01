@@ -2,4 +2,5 @@
 .DS_STORE
 *.log
 *.zip
+yarn.lock
 node_modules/
